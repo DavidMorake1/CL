@@ -53,7 +53,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "abamobile",
     "siteurl": "https://abc.andrewbiggs.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
