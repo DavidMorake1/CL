@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "450381848355",
+    "firebase_url": "https://andrew-biggs-academy.firebaseio.com",
+    "project_id": "andrew-biggs-academy",
+    "storage_bucket": "andrew-biggs-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450381848355:android:ed7d9aeeecb61c0f",
+        "android_client_info": {
+          "package_name": "com.andrewbiggs.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFbkncSlJgyGZocdDHCJXBRn3Mn1ZSqBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450381848355-062p0lbuks70di462gmablrep2du191r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
