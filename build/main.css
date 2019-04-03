@@ -57327,9 +57327,9 @@ ion-app.app-root page-core-login-forgotten-password .content {
 }
 
 ion-app.app-root page-core-login-init .scroll-content {
-  background-color: #ffffff;
+  background-color: #00B99E;
   /* Change this to add a bg image or change color */
-  background: radial-gradient(#ffffff, #ffffff);
+  background: radial-gradient(#00B99E, #00B99E);
   background-repeat: no-repeat;
   background-position: center center;
 }
