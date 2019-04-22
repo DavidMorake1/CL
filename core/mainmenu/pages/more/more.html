@@ -33,7 +33,7 @@
             <ion-icon name="globe" item-start aria-hidden="true"></ion-icon>
             <p>{{ 'core.mainmenu.website' | translate }}</p>
         </a>
-        <a *ngIf="showHelp" ion-item [href]="docsUrl" core-link autoLogin="no" title="{{ 'core.mainmenu.help' | translate }}">
+        <a *ngIf="showHelp" ion-item [href]="https://hamiltoneducation.com" core-link autoLogin="no" title="{{ 'core.mainmenu.help' | translate }}">
             <ion-icon name="help-buoy" item-start aria-hidden="true"></ion-icon>
             <p>{{ 'core.mainmenu.help' | translate }}</p>
         </a>
@@ -41,6 +41,9 @@
             <ion-icon name="cog" item-start aria-hidden="true"></ion-icon>
             <p>{{ 'core.mainmenu.appsettings' | translate }}</p>
         </a>
-       
+       <a ion-item (click)="logout()" title="{{ logoutLabel | translate }}">
+            <ion-icon name="log-out" item-start aria-hidden="true"></ion-icon>
+            <p></p>
+        </a>
     </ion-list>
 </ion-content>
