@@ -220,7 +220,7 @@ var CoreSharedFilesListPage = /** @class */ (function () {
      * Change site loaded.
      *
      * @param {string} id Site to load.
-     *
+     */
     CoreSharedFilesListPage.prototype.changeSite = function (id) {
         this.siteId = id;
         this.path = '';
