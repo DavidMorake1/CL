@@ -131,8 +131,8 @@ export class CoreMainMenuMorePage implements OnDestroy {
 
     /**
      * Logout the user.
-     */
+     *
     logout(): void {
         this.sitesProvider.logout();
-    }
+    }*/
 }
