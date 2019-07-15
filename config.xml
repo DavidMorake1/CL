@@ -12,8 +12,8 @@
         The official BDO Sator LMS app
     </description>
 
-    <author href="https://azuritelms.com" email="hello@azuritelms.com">
-        Azurite Holdings
+    <author href="https://davidmorake.com" email="shoutout@davidmorake.com">
+        David Morake
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
