@@ -1,7 +1,7 @@
 {
-    "app_id": "com.hamilton.mobile",
-    "appname": "Hamilton Education",
-    "desktopappname": "Hamilton Education",
+    "app_id": "com.sator.mobile",
+    "appname": "BDO Sator LMS",
+    "desktopappname": "BDO Sator LMS",
     "versioncode": 3610,
     "versionname": "1",
     "cache_expiration_time": 300000,
@@ -54,9 +54,9 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "hemobile",
-    "siteurl": "https://hamiltoneducationportal.com",
+    "siteurl": "https://dev.clientlogin.co.uk",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https://hamiltoneducation.com/"
+    "privacypolicy": "https://www.bdo.je/en-gb/legal-privacy/privacy-notice"
 }
